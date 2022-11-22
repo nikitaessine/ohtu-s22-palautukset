@@ -13,11 +13,11 @@ Tämän jälkeen käydään Scrummasterin johtamana yhdessä laput läpi eniten 
 ## Start, Stop, Continue, More of, Less of Wheel
 
 Tässä tekniikassa piirettään taululle ympyrä, joka jaetaan 5 osaan. Osat ovat tekniikan nimen mukaisia. 
-Start-osassa kysytään: mitä voitaisiib aloittaa mitä ei olla viel aloitettu?
-Stop-osassa: minkä tekemisen lopetetaan?
-Continue-osassa: minkä tekeminen jatketaan?
-More of-osassa: mitä pitäisi tehdä enemmän?
-less of-osassa: mitä voitaisiin tehdä vähemmän?
+- Start-osassa kysytään: mitä voitaisiib aloittaa mitä ei olla viel aloitettu?
+- Stop-osassa: minkä tekemisen lopetetaan?
+- Continue-osassa: minkä tekeminen jatketaan?
+- More of-osassa: mitä pitäisi tehdä enemmän?
+- less of-osassa: mitä voitaisiin tehdä vähemmän?
 
 Tämän avulla tiimi pystyy yhdessä päättämään mihin suuntaan liikutaan. 
   
