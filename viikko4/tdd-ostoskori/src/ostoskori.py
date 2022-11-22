@@ -29,7 +29,7 @@ class Ostoskori:
 
         for i in self.ostoskori:
             if i.tuotteen_nimi() == ostos.tuotteen_nimi():
-                i.muuta_lukumaara(1)
+                i.muuta_lukumaaraa(1)
                 return
         self.ostoskori.append(ostos)
 
