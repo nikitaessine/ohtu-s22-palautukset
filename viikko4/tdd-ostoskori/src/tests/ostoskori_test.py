@@ -128,3 +128,5 @@ class TestOstoskori(unittest.TestCase):
         ostokset = self.kori.ostokset()
  
         self.assertEqual(len(ostokset), 0)
+    
+    
